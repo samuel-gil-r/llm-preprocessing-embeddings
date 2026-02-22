@@ -1,4 +1,4 @@
-# LLM Text Preprocessing and Embeddings - Chapter 2
+# LLM Text Preprocessing and Embeddings 
 
 This notebook follows Chapter 2 of "Build a Large Language Model From Scratch" 
 by Sebastian Raschka. It covers how raw text is transformed into numerical 
